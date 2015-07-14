@@ -1,0 +1,22 @@
+<assembly xmlns="http://maven.apache.org/POM/4.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/assembly-1.0.0.xsd">  
+    <id>full</id>  
+    <formats>  
+        <format>jar</format> <!--打包文件格式-->
+    </formats>  
+    <includeBaseDirectory>true</includeBaseDirectory>  
+    <fileSets>   
+        <fileSet>  
+            <outputDirectory>/</outputDirectory>  
+            <directory>android-sdk-ats</directory>  
+            <includes>  
+                <include>**/*</include>  
+            </includes>  
+            <excludes>  
+                <exclude>src/test/*</exclude>  
+                <exclude>*/EIM_SDK-201506031438.jar</exclude>
+            </excludes>  
+        </fileSet>  
+    </fileSets>  
+</assembly>
