@@ -1,11 +1,11 @@
-package com.cmcc.ats.android.sdk.util;
+package net.andy.ats.android.sdk.util;
 
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class LogUtils {

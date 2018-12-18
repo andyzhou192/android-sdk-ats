@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.tools;
+package net.andy.ats.android.sdk.tools;
 
 import java.sql.Timestamp;
 import java.text.ParseException;
@@ -7,7 +7,7 @@ import java.util.Date;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class TimeTools {

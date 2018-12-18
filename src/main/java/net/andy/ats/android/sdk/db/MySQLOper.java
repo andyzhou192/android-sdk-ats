@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.db;
+package net.andy.ats.android.sdk.db;
 
 import java.sql.ResultSet;
 

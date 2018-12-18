@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.tools;
+package net.andy.ats.android.sdk.tools;
 
 
 import java.io.BufferedReader;
@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 

@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk;
+package net.andy.ats.android.sdk;
 
 /**
  * 

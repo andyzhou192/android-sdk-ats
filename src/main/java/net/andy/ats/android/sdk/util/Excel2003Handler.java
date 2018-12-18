@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.util;
+package net.andy.ats.android.sdk.util;
 
 import java.util.List;
 import java.util.Map;

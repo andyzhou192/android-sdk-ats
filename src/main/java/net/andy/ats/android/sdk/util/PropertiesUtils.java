@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.util;
+package net.andy.ats.android.sdk.util;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -8,7 +8,7 @@ import com.cmcc.ats.android.sdk.tools.StringTools;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class PropertiesUtils {

@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.tools;
+package net.andy.ats.android.sdk.tools;
 
 import java.util.Random;
 
@@ -6,7 +6,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class RandomTools {

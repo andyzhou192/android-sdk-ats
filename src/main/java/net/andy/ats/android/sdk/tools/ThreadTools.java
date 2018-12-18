@@ -1,8 +1,8 @@
-package com.cmcc.ats.android.sdk.tools;
+package net.andy.ats.android.sdk.tools;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class ThreadTools {

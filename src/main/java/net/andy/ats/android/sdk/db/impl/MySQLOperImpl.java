@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.db.impl;
+package net.andy.ats.android.sdk.db.impl;
 
 import java.sql.Connection;
 import java.sql.Date;

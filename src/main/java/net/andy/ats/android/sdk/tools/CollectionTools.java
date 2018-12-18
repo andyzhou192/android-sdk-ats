@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.tools;
+package net.andy.ats.android.sdk.tools;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.util.impl;
+package net.andy.ats.android.sdk.util.impl;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -18,7 +18,7 @@ import jxl.read.biff.BiffException;
 
 /**
  * excel2003��ȡ
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class Excel2003HandlerImpl implements Excel2003Handler {

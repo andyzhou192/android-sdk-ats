@@ -1,4 +1,4 @@
-package com.cmcc.ats.android.sdk.tools;
+package net.andy.ats.android.sdk.tools;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
@@ -13,7 +13,7 @@ import com.cmcc.ats.android.sdk.Constants;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class StringTools {
