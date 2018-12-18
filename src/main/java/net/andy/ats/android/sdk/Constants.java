@@ -2,7 +2,7 @@ package net.andy.ats.android.sdk;
 
 /**
  * 
- * @author zhouyelin@chinamobile.com
+ * @author sifuma@163.com
  *
  */
 public class Constants {
