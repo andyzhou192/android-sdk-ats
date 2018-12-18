@@ -1,12 +1,12 @@
-package com.cmcc.android.script;
+package net.andy.android.script;
 
 import java.io.File;
 import org.junit.Assert;
 import org.junit.Test;
 import org.robolectric.annotation.Config;
 
-import com.cmcc.ats.android.sdk.BaseTestRunner;
-import com.cmcc.ats.android.sdk.util.LogUtils;
+import net.andy.ats.android.sdk.BaseTestRunner;
+import net.andy.ats.android.sdk.util.LogUtils;
 import com.littlec.sdk.business.MessageConstants.Conversation;
 import com.littlec.sdk.entity.CMMessage;
 import com.littlec.sdk.entity.messagebody.FileMessageBody;

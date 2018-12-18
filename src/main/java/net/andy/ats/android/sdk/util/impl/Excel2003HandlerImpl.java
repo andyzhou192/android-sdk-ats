@@ -8,8 +8,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.cmcc.ats.android.sdk.tools.StringTools;
-import com.cmcc.ats.android.sdk.util.Excel2003Handler;
+import net.andy.ats.android.sdk.tools.StringTools;
+import net.andy.ats.android.sdk.util.Excel2003Handler;
 
 import jxl.Cell;
 import jxl.Sheet;
@@ -158,6 +158,6 @@ public class Excel2003HandlerImpl implements Excel2003Handler {
 	}
 	
 //	public static void main(String[] args) {
-//		readExcel("D:/work/workspace/server-ats/src/main/resources/com/cmcc/ats/server/handle/test.xls",null);
+//		readExcel("D:/work/workspace/server-ats/src/main/resources/net/andy/ats/server/handle/test.xls",null);
 //	}
 }

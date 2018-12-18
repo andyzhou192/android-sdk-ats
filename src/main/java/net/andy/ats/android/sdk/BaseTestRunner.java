@@ -14,10 +14,10 @@ import org.robolectric.annotation.Config;
 
 import android.content.Context;
 
-import com.cmcc.ats.android.sdk.util.Excel2003Handler;
-import com.cmcc.ats.android.sdk.util.LogUtils;
-import com.cmcc.ats.android.sdk.util.PropertiesUtils;
-import com.cmcc.ats.android.sdk.util.impl.Excel2003HandlerImpl;
+import net.andy.ats.android.sdk.util.Excel2003Handler;
+import net.andy.ats.android.sdk.util.LogUtils;
+import net.andy.ats.android.sdk.util.PropertiesUtils;
+import net.andy.ats.android.sdk.util.impl.Excel2003HandlerImpl;
 
 @Config(manifest=Config.NONE)
 @RunWith(ParameterizedRobolectricTestRunner.class)
@@ -46,7 +46,7 @@ public abstract class BaseTestRunner {
 
 	/**
 	 * 获取默认路径下的指定文件,默认路径在测试资源路径下雨测试类所在包名同路径下的上一级路径的files路径下，
-	 * 如测试类在src/test/java/com/cmcc/android/script路径下，那么默认路径是src/test/resources/com/cmcc/android/files
+	 * 如测试类在src/test/java/net/andy/android/script路径下，那么默认路径是src/test/resources/net/andy/android/files
 	 * @param fileName  文件名
 	 * @return
 	 */

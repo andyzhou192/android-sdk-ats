@@ -1,4 +1,4 @@
-package com.cmcc.android.script;
+package net.andy.android.script;
 
 public enum MessageType {
 	

@@ -14,12 +14,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.cmcc.ats.android.sdk.Constants;
-import com.cmcc.ats.android.sdk.db.MySQLOper;
-import com.cmcc.ats.android.sdk.tools.StringTools;
-import com.cmcc.ats.android.sdk.util.Excel2003Handler;
-import com.cmcc.ats.android.sdk.util.LogUtils;
-import com.cmcc.ats.android.sdk.util.impl.Excel2003HandlerImpl;
+import net.andy.ats.android.sdk.Constants;
+import net.andy.ats.android.sdk.db.MySQLOper;
+import net.andy.ats.android.sdk.tools.StringTools;
+import net.andy.ats.android.sdk.util.Excel2003Handler;
+import net.andy.ats.android.sdk.util.LogUtils;
+import net.andy.ats.android.sdk.util.impl.Excel2003HandlerImpl;
 
 
 public class MySQLOperImpl implements MySQLOper {

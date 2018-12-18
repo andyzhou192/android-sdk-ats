@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import com.cmcc.ats.android.sdk.Constants;
+import net.andy.ats.android.sdk.Constants;
 
 public class CollectionTools {
 

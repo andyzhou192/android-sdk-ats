@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-import com.cmcc.ats.android.sdk.tools.StringTools;
+import net.andy.ats.android.sdk.tools.StringTools;
 
 /**
  * 

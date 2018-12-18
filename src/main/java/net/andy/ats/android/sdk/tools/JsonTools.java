@@ -4,7 +4,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.cmcc.ats.android.sdk.util.LogUtils;
+import net.andy.ats.android.sdk.util.LogUtils;
 
 public class JsonTools {
 	
